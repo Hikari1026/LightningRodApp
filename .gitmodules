@@ -1,0 +1,3 @@
+[submodule "stack4things-openstack-lightning-rod-app"]
+	path = stack4things-openstack-lightning-rod-app
+	url = https://github.com/Hikari1026/stack4things-openstack-lightning-rod-app
